@@ -12,12 +12,6 @@ The goal of this repo is to document the transition from core programming concep
 * **Frontend:** HTML, CSS, JavaScript, Frameworks
 * **Tools:** Git, Maven, Postman
 
-## 📂 Repository Structure
-* **/Core-Java:** Fundamental concepts and object-oriented programming exercises.
-* **/Advanced-Modules:** Implementations of collections, multi-threading, and APIs.
-* **/Projects:** Full-stack applications and semester-end deliverables.
-* **/Assignments:** Weekly task submissions and logic building exercises.
-
 ## 📈 Learning Objectives
 - Master the Java backend ecosystem and Spring Boot architecture.
 - Design and implement RESTful web services.
