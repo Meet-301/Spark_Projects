@@ -11,5 +11,5 @@ A backend-focused Java application utilizing **JDBC** for persistent storage. Th
 
 ## 🛠️ Tech Stack
 * **Language:** Java
-* **Database:** MySQL / PostgreSQL
+* **Database:** MySQL
 * **Driver:** JDBC (Java Database Connectivity)
